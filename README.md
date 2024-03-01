@@ -1,18 +1,26 @@
-### Hi there 👋I'm Arvindjit Singh, a dynamic Data enthusiast with over 4 years of experience in data science and digital marketing. I specialize in transforming complex datasets into actionable insights.
 
-#### Skills 🚀
-Languages: SQL, Python, R, HTML(basic)
-Technologies and Tools: Tableau, Power BI, MS Excel, SSMS, Google Analytics (basic), Confluence, JIRA
+ <h1 align="center">Hi there 👋I'm Arvindjit Singh</h1>
+ 
+a dynamic Data enthusiast with over 4 years of experience in data science and digital marketing. I specialize in transforming complex datasets into actionable insights.
 
-### Interests 🌐
+#### - Skills 🚀
+* Languages: SQL, Python, R, HTML(basic)
+* Technologies and Tools: Tableau, Power BI, MS Excel, SSMS, Google Analytics (basic), Confluence, JIRA
+
+#### - Interests 🌐
 🔸Data Analytics
+
 🔸Business Intelligence (BI)
+
 🔸Natural Language Processing (NLP)
+
 🔸Data Warehousing
+
 🔸Generative AI
+
 🔸Large Language Models (LLMs)
 
- ### How to reach me 📫: [arvindjit03@live.com](mailto:arvindjit03@live.com?subject=[GitHub]%20Source%20Han%20Sans)
+ #### - How to reach me 📫: [arvindjit03@live.com](mailto:arvindjit03@live.com?subject=[GitHub]%20Source%20Han%20Sans)
  
 <!--
 **arvindjit03/arvindjit03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
