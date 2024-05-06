@@ -4,7 +4,7 @@
 a dynamic Data enthusiast with over 4 years of experience in data science and digital marketing. I specialize in transforming complex datasets into actionable insights.
 
 
-### 🌐 Interests : 
+### 🌐 Interests :
 🔸Data Analytics
 
 🔸Business Intelligence (BI)
