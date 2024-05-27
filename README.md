@@ -5,7 +5,7 @@ a dynamic Data enthusiast with over 4 years of experience in data science and di
 
 
 ### 🌐 Interests :
-🔸Data Analytics
+🔸Data Analytics 
 
 🔸Business Intelligence (BI)
 
