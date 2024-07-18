@@ -1,7 +1,7 @@
 
  <h1 align="center">Hi there 👋I'm Arvindjit Singh</h1>
  
-a dynamic Data enthusiast with over 4 years of experience in data science and digital marketing. I specialize in transforming complex datasets into actionable insights. 
+a dynamic Data enthusiast with over 4 years of experience in data science, software development and digital marketing. I specialize in transforming complex datasets into actionable insights. 
 
 
 ### 🌐 Interests :
@@ -12,6 +12,8 @@ a dynamic Data enthusiast with over 4 years of experience in data science and di
 🔸Natural Language Processing (NLP)
 
 🔸Data Warehousing
+
+🔸Automation 
 
 🔸Generative AI
 
